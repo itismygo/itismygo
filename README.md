@@ -19,32 +19,6 @@
 </p>
 
 <br/>
-
-<!-- 项目列表：粗体标题 + 换行描述，无列表符号，强调层级 -->
-### Selected Works
-
-**astrbot_plugin_timeprogress**
-<br/>
-AstrBot 时间进度卡片插件。使用 Playwright 进行高精度渲染，极简设计。
-<br/>
-[View Repository →](https://github.com/itismygo/astrbot_plugin_timeprogress)
-
-<br/>
-
-**Project Name 02**
-<br/>
-这里是项目的简短描述。保持客观、冷静的语调。
-<br/>
-[View Repository →](#)
-
-<br/><br/>
-
-<!-- 统计区域：极简黑白风格，无边框 -->
-<!-- 同样使用 picture 标签适配深浅模式 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&locale=cn">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=buefy&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&locale=cn">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=buefy&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&locale=cn" />
 </picture>
 
 <picture>
