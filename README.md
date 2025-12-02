@@ -1,58 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=你好，我是%20itismygo！&fontSize=70&animation=fadeIn&fontAlignY=38&desc=开发者%20%7C%20Python%20爱好者%20%7C%20机器人作者&descAlignY=51&descAlign=62" />
-</div>
+<!-- 头部区域：左对齐，巨大的无衬线字体 -->
+<h1 align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: -1px; margin-bottom: 0;">
+  itismygo
+</h1>
 
-<div align="center">
+<!-- 动态打字机：使用 Inter 字体，极简风格 -->
+<!-- 利用 picture 标签实现深浅色模式自适应：亮色模式用黑字，暗色模式用白字 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&pause=1000&color=FFFFFF&width=600&lines=Developer+%2F+Python+Enthusiast;Crafting+AstrBot+Plugins;Less+is+More.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&pause=1000&color=000000&width=600&lines=Developer+%2F+Python+Enthusiast;Crafting+AstrBot+Plugins;Less+is+More.">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&pause=1000&color=000000&width=600&lines=Developer+%2F+Python+Enthusiast;Crafting+AstrBot+Plugins;Less+is+More.">
+</picture>
 
-### 🚀 关于我
+<br/><br/>
 
-<!-- 动态打字效果 (中文) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=热衷于代码与自动化。;正在构建有趣的+AstrBot+插件。;持续探索新技术中。;欢迎来到我的主页！" alt="Typing SVG" />
-</a>
-
----
-
-### 🛠️ 技术栈
-
-<!-- 技术栈图标 -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<!-- 技术栈：纯文本，使用斜杠分隔，经典的瑞士排版 -->
+<p align="left" style="font-family: monospace; color: #666;">
+  PYTHON &nbsp;/&nbsp; GIT &nbsp;/&nbsp; DOCKER &nbsp;/&nbsp; LINUX &nbsp;/&nbsp; VS CODE
 </p>
 
----
+<br/>
 
-### 📊 GitHub 统计
+<!-- 项目列表：粗体标题 + 换行描述，无列表符号，强调层级 -->
+### Selected Works
 
-<!-- 统计卡片 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=cn" alt="itismygo's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=cn" alt="Top Languages" />
-</p>
+**astrbot_plugin_timeprogress**
+<br/>
+AstrBot 时间进度卡片插件。使用 Playwright 进行高精度渲染，极简设计。
+<br/>
+[View Repository →](https://github.com/itismygo/astrbot_plugin_timeprogress)
 
-<!-- 连续提交记录 -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itismygo&theme=tokyonight&hide_border=true&background=0d1117&locale=zh_Hans" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+**Project Name 02**
+<br/>
+这里是项目的简短描述。保持客观、冷静的语调。
+<br/>
+[View Repository →](#)
 
-### 🌟 精选项目
+<br/><br/>
 
-| 项目名称 | 简介 |
-| :--- | :--- |
-| **[astrbot_plugin_timeprogress](https://github.com/itismygo/astrbot_plugin_timeprogress)** | ⏳ AstrBot 时间进度卡片插件，使用 Playwright 渲染高清可视化图片。 |
-| **待添加项目** | 📝 这里可以写你未来其他很酷项目的描述。 |
+<!-- 统计区域：极简黑白风格，无边框 -->
+<!-- 同样使用 picture 标签适配深浅模式 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&locale=cn">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=buefy&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&locale=cn">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=itismygo&show_icons=true&theme=buefy&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&locale=cn" />
+</picture>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&locale=cn">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=buefy&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff&locale=cn">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=buefy&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff&locale=cn" />
+</picture>
