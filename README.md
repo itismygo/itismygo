@@ -19,7 +19,6 @@
 </p>
 
 <br/>
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&locale=cn">
