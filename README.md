@@ -20,8 +20,3 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&locale=cn">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=buefy&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff&locale=cn">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itismygo&layout=compact&theme=buefy&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff&locale=cn" />
-</picture>
