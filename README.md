@@ -6,7 +6,7 @@
 <!-- 动态打字机：使用瑞士红 (#E30613) -->
 <!-- 无论深浅模式，红色文字都非常清晰且具有冲击力 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=E30613&width=600&lines=Developer+%2F+Python+Enthusiast;Crafting+AstrBot+Plugins;Vibe coding." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=E30613&width=600&lines=Developer+%2F+Python+Enthusiast;Crafting+AstrBot+Plugins." alt="Typing SVG" />
 </a>
 
 <br/><br/>
